@@ -71,8 +71,7 @@ The `downloadImage` function downloads images from WhatsApp messages and convert
 
 ## Dependencies
 
-- [Baileys](https://github.com/adiwajshing/Baileys) - A library to connect to WhatsApp Web APIs.
-- [@hapi/boom](https://www.npmjs.com/package/@hapi/boom) - For HTTP-friendly error objects.
+- [Baileys]([https://github.com/adiwajshing/Baileys](https://github.com/WhiskeySockets/Baileys)) - A library to connect to WhatsApp Web APIs.
 - [qrcode-terminal](https://www.npmjs.com/package/qrcode-terminal) - Displays QR codes in the terminal.
 - [Google Generative AI](https://www.npmjs.com/package/@google/generative-ai) - For integrating Gemini AI.
 
